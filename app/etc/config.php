@@ -186,6 +186,7 @@ return array (
     'Magento_CatalogWidget' => 1,
     'Magento_ProductVideoStaging' => 1,
     'Magento_Worldpay' => 1,
+    'Maginx_Test' => 1,
     'Shopial_Facebook' => 1,
   ),
 );
